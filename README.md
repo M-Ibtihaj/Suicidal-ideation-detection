@@ -28,10 +28,11 @@ In preprocessing following operations are done:
   - ### Tweets Data Retrieval
        - **Tweets_Data_Retrieval:** Retrieving suicidal tweets  
   - ### Training and Testing
+       - **antonyms_list:** File containing words and their antonyms
        - **prepro_lib:** Contains files for preprocessing operations
-       - **Data_preprocessor:** Preprocessing
+       - **Data_preprocessor:** Preprocessing of data
        - **Training_Tweets_cleaner:** Symbols and other minor cleaning
-       - **Training_Testing:** Training and testing the model 
+       - **Training_Testing:** Training and testing the model
   - ### Datset
        - **Raw_suicide_tweets:** Tweets' texts
        - **Labelled_tweets:** Training data
